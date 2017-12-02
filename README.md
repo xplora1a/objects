@@ -8,6 +8,7 @@ Mazebox - a 2 part cylinrical maze that you need to solve to open and close the 
    trianglemath.py routines for caculateing the triangle mesh
    pyopenscad.py class library for creating openscad code
    mazebox_clean2_stable_bottom.scad a generated version of the scad file for the bottom part
-   mazebox_clean2_stable_top.scad a generated virsion of the top part
+   mazebox_clean2_stable_top.scad a generated version of the top part
    
+Tardis - a scaleable Dr Who Tardis, with lid
 
