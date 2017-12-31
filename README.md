@@ -12,3 +12,5 @@ Mazebox - a 2 part cylinrical maze that you need to solve to open and close the 
    
 Tardis - a scaleable Dr Who Tardis, with lid
 
+dpKeyTagEditor-02.py - to gererate a SCAD file for a key tag with customised name indented. We have used this as a demonstrator of 3D printing for school events and TeenTech events.
+
